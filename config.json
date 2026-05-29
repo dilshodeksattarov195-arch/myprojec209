@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedave",
+        "uuid": 1531970,
+        "checksum": "e5elk9"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
